@@ -1,0 +1,6 @@
+interface:
+  display_name: "Coordenador de Caso Nutricional"
+  short_description: "Orquestra módulos sem perder rastreabilidade"
+  brand_color: "#177D67"
+  default_prompt: "Use $nutri-coordenar-caso para planejar a análise deste caso e selecionar somente os módulos necessários."
+

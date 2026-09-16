@@ -1,0 +1,7 @@
+interface:
+  display_name: "Histórico de Planos"
+  short_description: "Compara planos, adesão, tolerância e desfechos"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#177D67"
+  default_prompt: "Use $nutri-auditar-planos-anteriores para recuperar aprendizados dos planos anteriores."

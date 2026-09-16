@@ -1,0 +1,9 @@
+interface:
+  display_name: "Exames e Histórico Clínico"
+  short_description: "Compara exames sem automatizar diagnóstico"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#177D67"
+  default_prompt: "Use $nutri-analisar-exames para organizar estes laudos e apontar tendências e pendências."
+policy:
+  allow_implicit_invocation: false

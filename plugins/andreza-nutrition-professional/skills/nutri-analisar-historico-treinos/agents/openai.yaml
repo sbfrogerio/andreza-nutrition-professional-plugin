@@ -1,0 +1,7 @@
+interface:
+  display_name: "Histórico de Treinos"
+  short_description: "Analisa ciclos e cargas para contexto nutricional"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#177D67"
+  default_prompt: "Use $nutri-analisar-historico-treinos para analisar este histórico longitudinal."

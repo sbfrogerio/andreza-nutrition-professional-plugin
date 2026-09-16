@@ -1,0 +1,44 @@
+{
+  "name": "andreza-nutrition-professional",
+  "version": "1.0.0",
+  "description": "Fluxos profissionais de nutrição esportiva, acompanhamento clínico e pesquisa científica baseada em evidências.",
+  "author": {
+    "name": "Andreza Agra Nutrition",
+    "url": "https://sbfrogerio.github.io/andreza-nutrition-professional-plugin/"
+  },
+  "homepage": "https://sbfrogerio.github.io/andreza-nutrition-professional-plugin/",
+  "repository": "https://github.com/sbfrogerio/andreza-nutrition-professional-plugin",
+  "license": "LicenseRef-Proprietary-AND-MIT",
+  "keywords": [
+    "nutrition",
+    "sports-nutrition",
+    "evidence-based-practice",
+    "scientific-literature",
+    "portuguese"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Andreza Nutrition Professional",
+    "shortDescription": "Nutrição esportiva e evidência científica com governança clínica.",
+    "longDescription": "Fluxos profissionais para avaliação nutricional esportiva, exames, diário alimentar, recuperação, periodização, hidratação, suplementos, RED-S e síntese crítica da literatura.",
+    "developerName": "Andreza Agra Nutrition",
+    "category": "Health",
+    "capabilities": [
+      "Clinical nutrition workflows",
+      "Sports nutrition analysis",
+      "Scientific literature review",
+      "Evidence synthesis"
+    ],
+    "websiteURL": "https://sbfrogerio.github.io/andreza-nutrition-professional-plugin/",
+    "privacyPolicyURL": "https://sbfrogerio.github.io/andreza-nutrition-professional-plugin/privacy",
+    "termsOfServiceURL": "https://sbfrogerio.github.io/andreza-nutrition-professional-plugin/terms",
+    "defaultPrompt": [
+      "Coordene este caso nutricional e indique os dados que faltam.",
+      "Revise este diário alimentar sem transformar lacunas em consumo zero.",
+      "Crie uma busca científica reproduzível para esta pergunta clínica."
+    ],
+    "brandColor": "#177D67",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/logo.png"
+  }
+}

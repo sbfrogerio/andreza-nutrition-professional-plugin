@@ -1,0 +1,7 @@
+interface:
+  display_name: "Diário Alimentar"
+  short_description: "Analisa ingestão, cobertura e incertezas"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#177D67"
+  default_prompt: "Use $nutri-analisar-diario-alimentar para analisar este diário e explicitar a confiança das estimativas."

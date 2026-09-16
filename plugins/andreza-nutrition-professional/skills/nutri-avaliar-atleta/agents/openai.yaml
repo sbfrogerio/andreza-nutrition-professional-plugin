@@ -1,0 +1,7 @@
+interface:
+  display_name: "Avaliação do Atleta"
+  short_description: "Estrutura avaliação nutricional esportiva"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#177D67"
+  default_prompt: "Use $nutri-avaliar-atleta para preparar a minuta técnica desta avaliação."

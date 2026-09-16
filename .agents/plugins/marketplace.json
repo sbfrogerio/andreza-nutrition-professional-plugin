@@ -1,0 +1,20 @@
+{
+  "name": "andreza-nutrition",
+  "interface": {
+    "displayName": "Andreza Agra Nutrition"
+  },
+  "plugins": [
+    {
+      "name": "andreza-nutrition-professional",
+      "source": {
+        "source": "local",
+        "path": "./plugins/andreza-nutrition-professional"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Health"
+    }
+  ]
+}

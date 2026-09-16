@@ -1,0 +1,8 @@
+interface:
+  display_name: "Triagem RED-S"
+  short_description: "Estrutura sinais, lacunas e encaminhamentos"
+  brand_color: "#177D67"
+  default_prompt: "Use $nutri-triar-reds para estruturar esta triagem sem diagnosticar ou decidir participação esportiva."
+policy:
+  allow_implicit_invocation: false
+

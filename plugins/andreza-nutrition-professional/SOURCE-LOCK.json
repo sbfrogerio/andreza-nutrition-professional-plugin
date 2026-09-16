@@ -1,0 +1,29 @@
+{
+  "generated_on": "2026-09-16",
+  "sources": [
+    {
+      "project": "K-Dense Scientific Agent Skills",
+      "repository": "https://github.com/K-Dense-AI/scientific-agent-skills.git",
+      "commit": "330c8e764435a731eff571e3efdda70b363d0792",
+      "skills": ["literature-review"]
+    },
+    {
+      "project": "Open Medical Skills",
+      "repository": "https://github.com/Open-Medica/open-medical-skills.git",
+      "commit": "0275541192e5875baa17085483586dd76b26c84e",
+      "skills": [
+        "pubmed-literature-search",
+        "evidence-synthesis-ai",
+        "systematic-review-assistant",
+        "supplement-drug-interactions",
+        "clinical-guideline-navigator"
+      ]
+    },
+    {
+      "project": "DeerFlow",
+      "repository": "https://github.com/bytedance/deer-flow.git",
+      "commit": "a022be195a1aaca47aafe0583c8a14b8b3f4b4e4",
+      "skills": ["academic-paper-review"]
+    }
+  ]
+}

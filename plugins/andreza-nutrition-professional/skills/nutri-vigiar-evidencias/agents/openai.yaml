@@ -1,0 +1,7 @@
+interface:
+  display_name: "Vigilância Científica"
+  short_description: "Pesquisa e sintetiza evidência rastreável"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#177D67"
+  default_prompt: "Use $nutri-vigiar-evidencias para atualizar este tema com fontes verificadas."

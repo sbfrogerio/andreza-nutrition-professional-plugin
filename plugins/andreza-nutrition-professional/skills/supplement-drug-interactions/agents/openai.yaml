@@ -1,0 +1,7 @@
+interface:
+  display_name: "Interações de Suplementos"
+  short_description: "Triagem conservadora de suplemento e medicamento"
+  brand_color: "#177D67"
+  default_prompt: "Use $supplement-drug-interactions para triar esta combinação sem alterar medicamentos."
+policy:
+  allow_implicit_invocation: false

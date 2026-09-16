@@ -1,0 +1,7 @@
+interface:
+  display_name: "Logística Esportiva"
+  short_description: "Organiza alimentação de viagem e competição"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#177D67"
+  default_prompt: "Use $nutri-planejar-logistica para converter o plano aprovado em operação."

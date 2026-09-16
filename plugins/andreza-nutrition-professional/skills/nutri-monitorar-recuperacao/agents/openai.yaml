@@ -1,0 +1,7 @@
+interface:
+  display_name: "Monitor de Recuperação"
+  short_description: "Resume treino, sono, sintomas e recuperação"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#177D67"
+  default_prompt: "Use $nutri-monitorar-recuperacao para produzir o resumo recente deste atleta."

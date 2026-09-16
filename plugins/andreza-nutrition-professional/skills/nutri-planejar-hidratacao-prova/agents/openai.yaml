@@ -1,0 +1,7 @@
+interface:
+  display_name: "Hidratação e Prova"
+  short_description: "Planeja hidratação medida e contingências"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#177D67"
+  default_prompt: "Use $nutri-planejar-hidratacao-prova para montar uma estratégia testável para este evento."

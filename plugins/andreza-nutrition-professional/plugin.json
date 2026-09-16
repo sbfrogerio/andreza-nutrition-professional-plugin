@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "andreza-nutrition-professional",
+  "version": "1.0.0",
+  "description": "Fluxos profissionais de nutrição esportiva e prática baseada em evidências."
+}
